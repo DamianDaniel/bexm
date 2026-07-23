@@ -1,0 +1,2 @@
+# bexm
+Bash EXtension Manager
